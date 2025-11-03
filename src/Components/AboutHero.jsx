@@ -12,14 +12,14 @@ const HeroSection = () => {
   };
 
   return (
-    <section className="relative bg-linear-to-br from-blue-50 via-white to-blue-100 py-5 md:py-20 px-4 sm:px-6 lg:px-8 overflow-hidden">
+    <section className="relative md:-mt-25 bg-linear-to-br from-blue-50 via-white to-blue-100 py-5 md:py-20 px-4 sm:px-6 lg:px-8 overflow-hidden">
       {/* Background Pattern */}
-      <div className="absolute inset-0 opacity-5">
+      <div className="absolute inset-0  opacity-5">
         <div className="absolute top-10 left-10 w-72 h-72 bg-blue-500 rounded-full filter blur-3xl"></div>
         <div className="absolute bottom-10 right-10 w-72 h-72 bg-red-500 rounded-full filter blur-3xl"></div>
       </div>
       
-      <div className="relative max-w-7xl mx-auto">
+      <div className="relative max-w-7xl md:mt-20 mx-auto">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
           {/* Left Content */}
           <div className="text-center lg:text-left">
