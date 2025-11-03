@@ -119,7 +119,7 @@ const SingleBlog = () => {
   return (
     <div className="min-h-screen bg-gray-50">
       {/* Hero Image */}
-      <div className="relative h-64 sm:h-80 md:h-96 lg:h-[500px]">
+      <div className="relative h-72 sm:h-80 md:h-96 lg:h-[500px]">
         <img
           src={blog.image}
           alt={blog.title}

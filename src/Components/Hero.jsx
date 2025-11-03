@@ -34,7 +34,7 @@ const SeoMarketing = () => {
         </svg>
       </div>
 
-      <div className="relative max-w-7xl md:mt-10 mx-auto px-6 lg:px-8 py-10 lg:py-24">
+      <div className="relative max-w-7xl md:mt-25 mt-15 mx-auto px-6 lg:px-8 py-10 lg:py-24">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
           {/* Left Side - Hero Content */}
           <div className="space-y-8">
@@ -46,7 +46,7 @@ const SeoMarketing = () => {
 
             {/* Main Heading */}
             <div>
-              <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-gray-900 leading-tight">
+              <h1 className="text-3xl md:text-5xl lg:text-6xl font-bold text-gray-900 leading-tight">
                 Dominate Search Rankings with Expert <span className="text-blue-600">SEO</span>
               </h1>
               <p className="mt-6 text-xl text-gray-600 max-w-lg">

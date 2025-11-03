@@ -19,7 +19,7 @@ const HeroSection = () => {
         <div className="absolute bottom-10 right-10 w-72 h-72 bg-red-500 rounded-full filter blur-3xl"></div>
       </div>
       
-      <div className="relative max-w-7xl md:mt-20 mx-auto">
+      <div className="relative max-w-7xl md:mt-35 mt-20 mx-auto">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
           {/* Left Content */}
           <div className="text-center lg:text-left">
@@ -34,7 +34,7 @@ const HeroSection = () => {
               </div>
             </div>
             
-            <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6 leading-tight">
+            <h1 className="text-3xl md:text-5xl font-bold text-gray-900 mb-6 leading-tight">
               Your Trusted <span className="text-blue-600">SEO & Digital Marketing</span> Experts!
             </h1>
             

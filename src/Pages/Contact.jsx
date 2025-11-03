@@ -117,7 +117,7 @@ const ContactUs = () => {
           <div className="absolute inset-0 bg-linear-to-r from-blue-900/80 to-blue-800/80"></div>
         </div>
         
-        <div className="relative max-w-7xl mx-auto px-6 lg:px-8">
+        <div className="relative max-w-7xl mx-auto px-6 mt-10 lg:px-8">
           <h1 className="text-4xl md:text-5xl font-bold mb-4">Contact Us</h1>
           <p className="text-xl md:text-2xl text-blue-100">
             Ready to grow your business? Let's start the conversation.

@@ -43,7 +43,7 @@ const Navbar = () => {
   };
 
   return (
-    <header className={`bg-white md:mx-20 md:rounded-b-4xl shadow-md sticky top-0 z-50 transition-all duration-300 ${isScrolled ? 'shadow-lg' : 'shadow-md'}`}>
+    <header className={`bg-white md:mx-20 md:rounded-b-4xl shadow-md fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${isScrolled ? 'shadow-lg' : 'shadow-md'}`}>
       <nav className="px-6 lg:px-8 py-6 flex justify-between items-center">
         {/* Logo */}
         <div className="flex items-center space-x-3">

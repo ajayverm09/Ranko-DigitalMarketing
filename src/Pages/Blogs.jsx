@@ -269,7 +269,7 @@ const Blogs = () => {
         
         <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center">
-            <h1 className="text-4xl md:text-5xl font-bold md:mt-10 mb-4">Our Blog</h1>
+            <h1 className="text-4xl md:text-5xl font-bold md:mt-20 mt-15 mb-4">Our Blogs</h1>
             <p className="text-xl text-blue-100 max-w-3xl mx-auto">
               Insights, tips, and strategies to help you grow your business online
             </p>
